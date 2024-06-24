@@ -26,6 +26,6 @@ I'm currently learning Go more in-depth by building small projects -- more to co
 
 ### Interests
 - ⚽ I play soccer, cycle, run, and go to the gym
-- 🏒 I'm a long-time fan of the Vancouver Canucks.
-- 🎮 I enjoy video games, including the _Dark Souls_ franchise and _Cogmind_.
-- 🎲 I'm a fan of tabletop role-playing games: _Dungeons & Dragons_, _Into the Odd_, and _Delta Green_.
+- 🏒 I'm a long-time fan of the Vancouver Canucks
+- 🎮 I enjoy video games, including the _Dark Souls_ franchise and _Cogmind_
+- 🎲 I'm a fan of tabletop role-playing games: _Dungeons & Dragons_, _Into the Odd_, and _Delta Green_
