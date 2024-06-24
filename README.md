@@ -17,30 +17,6 @@ I'm currently learning Go. So far, I've written a quiz game, a choose-your-own-a
 
 ---
 
-### Projects
-
-#### AI Create-An-Adventure App  |  [Frontend](https://github.com/rhysmah/dungeon-krawler-backend)  |  [Backend](https://github.com/rhysmah/dungeon-krawler-frontend)
-- Uses AI to generate adventure stories and images, like a storybook, based on prompts.
-- I helped write the frontend in React and the backend in Node + Express.
-
-#### [Project Quazar: An Online Multiplayer Space Game](https://github.com/MikeSusutZZ/Project-Quazar)
-- A real-time multiplayer space game where users control a spaceship and earn points by destroying other player ships.
-- I helped write the frontend menu using Phoenix, Elixir's web framework.
-  
-#### Concurrent Chat System  |  [Go Version](https://github.com/rhysmah/Go-Chat-App)  |  [Elixir Version](https://github.com/rhysmah/Elixir-Chat-App)
-- I wrote a simple concurrent chat app in both Go (goroutines) and Elixir (channels).
-- Includes a simple multi-threaded Java CLI client for user interaction.
-
-#### [LLM-Powered Code Improvement Tool](https://github.com/Vero-Ventures/llm-swarm)
-- A VSCode extension that allows users to highlight code and improve it using a local LLM-powered multi-agent swarm.
-- I explored LLM and multi-agent swarm technologies and created Jupyter and Google Colab notebooks for LLM testing.
-
-#### Social Networking App Collectors  |  Code Unavailable
-- A social networking app for collectors; allows users to create wishlists, showcase collections, update their profiles, and send friend requests.
-- I wrote frontend components in React + TypeScript.
-
----
-
 ### Interests
 - ⚽ I play soccer, cycle, run, and go to the gym
 - 🏒 I'm a long-time fan of the Vancouver Canucks.
