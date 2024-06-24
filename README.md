@@ -5,7 +5,9 @@ In May 2024, I graduated from the Computer Systems Technology (CST) program at t
 
 Previously, I earned a Master's degree in English Literature from the University of Victoria (UVic); worked in post-secondary education; and, just before my transition to software development, worked for a Vancouver-based health and safety non-profit.
 
-I’m eager to start my career in software development. I envision myself working in healthcare, education, sustainability, or any sector that uses technology to meaningfully improve people's lives. Connect with me via [LinkedIn](https://www.linkedin.com/in/rhysmahannah/).
+I’m eager to start my career in software development. I envision myself working in healthcare, education, sustainability, or any sector that uses technology to meaningfully improve people's lives. 
+
+Connect with me via [LinkedIn](https://www.linkedin.com/in/rhysmahannah/).
 
 ---
 
