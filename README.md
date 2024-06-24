@@ -20,6 +20,7 @@ I'm currently learning Go more in-depth by building small projects -- more to co
 - [Choose-your-own-adventure game](https://github.com/rhysmah/Go_Exercises/tree/main/Adventure_Game)
 - [URL shortener](https://github.com/rhysmah/Go_Exercises/tree/main/URL_Shortener)
 - [HTML link parser](https://github.com/rhysmah/Go_Exercises/tree/main/HTML_Link_Parser)
+- [CLI Task Manager](https://github.com/rhysmah/CLI-Task-Manager)
 
 ---
 
