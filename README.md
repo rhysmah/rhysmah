@@ -13,7 +13,7 @@ I’m eager to start my career in software development. I envision myself workin
 - **Languages**: Python, Java, Elixir, Go, JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React, TypeScript, Node.js, Express.js
 
-I'm currently learning Go. So far, I've written a quiz game, a choose-your-own-adventure game, a URL shortener, and an HTML link parser. [Repository and README](https://github.com/rhysmah/Go_Exercises).
+I'm currently learning Go. So far, I've written a quiz game, a choose-your-own-adventure game, a URL shortener, and an HTML link parser ([repository and README](https://github.com/rhysmah/Go_Exercises)).
 
 ---
 
