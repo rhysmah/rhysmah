@@ -1,4 +1,4 @@
-## Rhys Mahannah
+## Hello, I'm Rhys
 
 ### About Me
 In May 2024, I graduated from the Computer Systems Technology (CST) program at the British Columbia Institute of Technology (BCIT).
