@@ -20,8 +20,8 @@ I'm currently getting more experience using Go by building small projects -- mor
 - [Choose-your-own-adventure game](https://github.com/rhysmah/Go_Exercises/tree/main/Adventure_Game)
 - [URL shortener](https://github.com/rhysmah/Go_Exercises/tree/main/URL_Shortener)
 - [HTML link parser](https://github.com/rhysmah/Go_Exercises/tree/main/HTML_Link_Parser)
-- [CLI Task Manager](https://github.com/rhysmah/CLI-Task-Manager)
-- [Phone Number Normalizer](https://github.com/rhysmah/Phone-Number-Normalizer)
+- [CLI task manager](https://github.com/rhysmah/CLI-Task-Manager)
+- [Phone number normalizer](https://github.com/rhysmah/Phone-Number-Normalizer)
 
 ---
 
