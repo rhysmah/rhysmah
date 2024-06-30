@@ -21,6 +21,7 @@ I'm currently getting more experience using Go by building small projects -- mor
 - [URL shortener](https://github.com/rhysmah/Go_Exercises/tree/main/URL_Shortener)
 - [HTML link parser](https://github.com/rhysmah/Go_Exercises/tree/main/HTML_Link_Parser)
 - [CLI Task Manager](https://github.com/rhysmah/CLI-Task-Manager)
+- [Phone Number Normalizer](https://github.com/rhysmah/Phone-Number-Normalizer)
 
 ---
 
