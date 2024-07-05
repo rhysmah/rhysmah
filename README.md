@@ -22,6 +22,7 @@ I'm currently getting more experience using Go by building small projects -- mor
 - [HTML link parser](https://github.com/rhysmah/Go_Exercises/tree/main/HTML_Link_Parser)
 - [CLI task manager](https://github.com/rhysmah/CLI-Task-Manager)
 - [Phone number normalizer](https://github.com/rhysmah/Phone-Number-Normalizer)
+- [Deck of Cards](https://github.com/rhysmah/Deck-Of-Cards)
 
 ---
 
