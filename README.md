@@ -15,14 +15,15 @@ Connect with me via [LinkedIn](https://www.linkedin.com/in/rhysmahannah/).
 - **Languages**: Python, Java, Elixir, Go, JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React, TypeScript, Node.js, Express.js
 
-I'm currently getting more experience using Go by building small projects -- more to come:
+I'm currently learning Go by building small projects (via [Gophercises](https://gophercises.com/#signup)) -- more to come:
 - [Quiz game](https://github.com/rhysmah/Go_Exercises/tree/main/Quiz_Game)
 - [Choose-your-own-adventure game](https://github.com/rhysmah/Go_Exercises/tree/main/Adventure_Game)
 - [URL shortener](https://github.com/rhysmah/Go_Exercises/tree/main/URL_Shortener)
 - [HTML link parser](https://github.com/rhysmah/Go_Exercises/tree/main/HTML_Link_Parser)
 - [CLI task manager](https://github.com/rhysmah/CLI-Task-Manager)
 - [Phone number normalizer](https://github.com/rhysmah/Phone-Number-Normalizer)
-- [Deck of Cards](https://github.com/rhysmah/Deck-Of-Cards)
+- [Deck of cards](https://github.com/rhysmah/Deck-Of-Cards)
+- [Blackjack](https://github.com/rhysmah/Blackjack)
 
 ---
 
