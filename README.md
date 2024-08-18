@@ -25,6 +25,9 @@ I'm currently learning Go by building small projects (via [Gophercises](https://
 - [Deck of cards](https://github.com/rhysmah/Deck-Of-Cards)
 - [Blackjack](https://github.com/rhysmah/Blackjack)
 
+I also purchased _Let's Go_, where I'm learning to build a full-stack application using Go.
+- [Snippet Box](https://github.com/rhysmah/snippet-box)
+
 ---
 
 ### Interests
