@@ -1,7 +1,7 @@
 ## Hello, I'm Rhys
 
 ### About Me
-In May 2024, I graduated from the Computer Systems Technology (CST) program at the British Columbia Institute of Technology (BCIT).
+In 2025, I graduated from the Computer Systems Technology (CST) program at the British Columbia Institute of Technology (BCIT).
 
 Previously, I earned a Master's degree in English Literature from the University of Victoria (UVic); worked in post-secondary education; and, just before my transition to software development, worked for a Vancouver-based health and safety non-profit.
 
